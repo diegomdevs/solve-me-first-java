@@ -1,2 +1,2 @@
-# solve-me-first-java
+# SolveMeFrst
 SolveMeFirst solution using Java.
